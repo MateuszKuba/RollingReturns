@@ -1,0 +1,10 @@
+name: return_by_month
+title:
+username:
+account: clif
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 224526
+bundleId: 1023277
+url: https://clif.shinyapps.io/return_by_month/
+when: 1507812354.66401
